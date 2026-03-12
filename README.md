@@ -5,31 +5,31 @@ The dashboard focuses on customer data, transactions, and financial performance 
 
 The project includes data cleaning, transformation, data modeling, DAX calculations, and dashboard creation to convert raw data into useful insights.
 
-** Features**
+**Features**
 
-KPI Cards (Total Customers, Balance, Transactions, Loans)
+1) KPI Cards (Total Customers, Balance, Transactions, Loans)
 
-Customer Segmentation Analysis
+2) Customer Segmentation Analysis
 
-Region / Branch wise performance
+3) Region / Branch wise performance
 
-Account type distribution
+4) Account type distribution
 
-Monthly / yearly trend analysis
+5) Monthly / yearly trend analysis
 
-Interactive filters & slicers
+6) Interactive filters & slicers
 
 **Tools & Technologies**
 
-Power BI Desktop
+1) Power BI Desktop
 
-Power Query
+2) Power Query
 
-DAX (Data Analysis Expressions)
+3) DAX (Data Analysis Expressions)
 
-Excel / CSV Dataset
+4) Excel / CSV Dataset
 
-Data Modeling
+5) Data Modeling
 
 **Key Insights from Dashboard**
 
@@ -47,13 +47,13 @@ Detected top performing regions
 
 ** Files Included**
 
-Banking_Dashboard.pbix
+1) Banking_Dashboard.pbix
 
-Dataset file
+2) Dataset file
 
-Dashboard Screenshot
+3) Dashboard Screenshot
 
-README.md
+4) README.md
 
 ** Project Objective**
 
