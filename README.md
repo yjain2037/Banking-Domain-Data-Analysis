@@ -1,4 +1,4 @@
-📊** Banking Data Analytics Dashboard – Power BI Project**
+**Banking Data Analytics Dashboard – Power BI Project**
 
 This project is an End-to-End Data Analytics Dashboard built using Power BI to analyze banking data and generate meaningful business insights.
 The dashboard focuses on customer data, transactions, and financial performance using interactive visualizations and KPIs.
