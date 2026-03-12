@@ -45,7 +45,7 @@ Compared loan amount vs customer count
 
 Detected top performing regions
 
-** Files Included**
+**Files Included**
 
 1) Banking_Dashboard.pbix
 
@@ -55,11 +55,11 @@ Detected top performing regions
 
 4) README.md
 
-** Project Objective**
+**Project Objective**
 
 To build an interactive Business Intelligence Dashboard that helps banks understand customer behavior and financial performance using data analytics.
 
-** Author**
+**Author**
 
 Yash Jain
 Data Analyst | Power BI | Excel | SQL | Python
